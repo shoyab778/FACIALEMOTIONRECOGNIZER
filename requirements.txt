@@ -7,3 +7,5 @@ notebook
 tqdm
 opencv-contrib-python
 scikit-learn
+for downloading the facialemotionmodel.h5 and facialemotionmodel.json - https://drive.google.com/drive/folders/1v12LZG--ZWz1xXlNCnbPLJ5q8_xsjfvJ?usp=drive_link
+for training the model, download dataset from - https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data
